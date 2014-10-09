@@ -338,7 +338,6 @@ public class PageJoiner
         {
             System.out.println("Invalid file.");
         }
-        /*
         // If there is NO skipfile.txt, create GUI
         if (!skipfile.exists())
         {
@@ -346,7 +345,6 @@ public class PageJoiner
             // Make it visible and wait  
             joinerGUI.setVisible(true);
         }
-        */
     }
 
     /**
